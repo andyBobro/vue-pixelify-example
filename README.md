@@ -1,6 +1,7 @@
 # vue-pixelify
 
 This is a demo for vue implementation of https://github.com/nikoferro/react-pixelify/ 
+
 coming soon on npm...
 
 ## Project setup
